@@ -1,4 +1,5 @@
-## Fix-my-code-0
+### Fix-my-code-0
+Read my code and fix the errors
 
 ### Description
 The fix my code project involves jumping into familiar and unfamiliar programming lanuage problem and trying to fix an error in the source code to produce desired output
