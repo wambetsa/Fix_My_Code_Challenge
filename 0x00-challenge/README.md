@@ -3,13 +3,13 @@
 ### Description
 The fix my code project involves jumping into familiar and unfamiliar programming lanuage problem and trying to fix an error in the source code to produce desired output
 
-  - ### Technologies Used
-    - Python
-    - Javascript
-    - Ruby
+Technologies Used
+- Python
+- Javascript
+- Ruby
 
-  - ### Challenges Experienced
-    - Unfamiliar with new programming language like Ruby
+- ### Challenges Experienced
+  - Unfamiliar with new programming language like Ruby
 
 ### Table of Contents
 - [FizzBuzz](https://github.com/wambetsa/Fix_My_Code_Challenge/blob/main/0x00-challenge/0-fizzbuzz.py)
@@ -19,10 +19,6 @@ The fix my code project involves jumping into familiar and unfamiliar programmin
 
 ### Installation
 No installation needed/required
-
-
-### FuzzBuzz
-Make check for 15 the first if statement block
 
 ### Contribution
 The project is not open for any contribution
